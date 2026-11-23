@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422851039972",
+    "project_id": "nigi-aa9ca",
+    "storage_bucket": "nigi-aa9ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422851039972:android:1cfea7a9423b200a9252f1",
+        "android_client_info": {
+          "package_name": "com.example.navigation_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk6nPPe02beXFTJpOr2XOERCDeZwQ7edg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
